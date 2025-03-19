@@ -8,3 +8,5 @@ Riferimento schede_madri
 >>>>>>> feature/Schede_madri
 
 Elettronica Padovana
+
+##Periferiche
